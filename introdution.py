@@ -1,4 +1,4 @@
-# Seeking input and printing to the screen
+# Personal Introduction
 
 name = input("What is your name? ").title().strip()
 age = int(input("What is your age? "))
